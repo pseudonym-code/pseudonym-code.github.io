@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![]('https://raw.githubusercontent.com/pseudonym-code/pseudonym-code.github.io/lee.png')
+![]('https://raw.githubusercontent.com/pseudonym-code/pseudonym-code.github.io/images/lee.png')
 
 
 I am currently an analytics consultant and data science development lead at IBM and have been for almost two years. I currently work in the Procurement group and provide analytics as a service to multiple Fortune 500 clients. I am a BYU graduate with a degree in Statistics and am currently pursuing a Master's degree in the same field at North Carolina State University.
