@@ -1,0 +1,18 @@
+---
+layout: post
+title: Programming Languages
+---
+
+There are many programming languages that can be used for data science. The main two that I have used professionally are R and Python. SQL of course is also a language that I use daily in data science to access data. Other languages I have used for different projects are C++ and HTML. In this post, I will explore the benefits to R and the contrasts between the R and Python languages specifically. 
+
+### What are your thoughts on R vs whatever other software you've used?  
+As mentioned above, the main software besides R that I use is Python. There are many things that I prefer about R over Python, especially when doing statistical analysis. I learned machine learning on Python, so I am more comfortable with it in that space. For analysis, data exploration, and data wrangling I often use R. The community is great and anything that you want to do has been done before, so others are willing to help. I love that other statisticians are creating packages to help accomplish the things that statisticians want to do. This is what makes R different, I think, is that the community is so involved and are really devoted to helping others succeed. 
+
+### What functionality do you like about R?  
+R in particular is a very strong language especially for those just learning programming. I love the simplicity of R, especially with the tidyverse. The accessibility and readability of the code is so succinct, and the use of RStudio makes the whole process easier. The R Markdown functionality as well makes coding and sharing code very easy. The ability to use the markdown as a blog or training material makes teaching simple as well!
+
+### What parts do you miss about your other language? 
+I think that Python has a lot of benefits as well. I haven’t done a lot of machine learning in R but the packages and ease of use of Python, especially around this field, are very good. The main thing that I prefer in Python over R is all of the things outside of statistics. I have used Python a lot for automation and IoT projects that R just can’t match. That type of functionality makes Python so versatile that it can do everything from machine learning to creating a video doorbell. Although there is lots of functionality in R, the ability in Python to be so versatile in the types of projects that come up is one thing that I prefer Python over R. 
+
+### Do you consider R a difficult language to learn? (If you knew R prior to the course, describe your experience when first learning it.)
+Overall, there are nuances to R that are different from any other programming language. C++ was my first programming language I learned, and R was second. R was a lot simpler than C++ in many ways. But just like learning any new language, there are lots of similarities you just need to learn the syntax. I think that R is a very easy second language to learn, but anyone who is unfamiliar with programming may struggle, just as they would with any language. It is one of the simpler programming languages to learn, though I think that learning something a little more complex at first, such as C or C++, really sets you up for success. Not only do you have a good base knowledge of the logic and framework of code, these languages are at the base of both R and Python. For learning just a language for data, R is great. For learning programming as a whole, I think that there are better paths to learn first. R is a great language and really has a lot of support in the community for newcomers. There are so many people that are willing to help and it is a wholesome experience as a whole.
